@@ -1,0 +1,53 @@
+.section_article {
+    width: 1535px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  h2 {
+    background-color: grey;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .A1 {
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .Article_1 {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 15px;
+    width: 93%;
+  }
+  
+  .Article_2 {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 93%;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
+  textarea {
+    width: 97.5%;
+    height: 120px;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .post {
+    margin-top: 15px;
+    padding: 15px;
+    text-align: center;
+    display: block;
+    width: 10%;
+    background-color: grey;
+    color: black;
+    font-size: 18px;
+  }
+  

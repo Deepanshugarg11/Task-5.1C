@@ -1,0 +1,11 @@
+.CenterBar {
+    display: flex;
+    background-color: grey;
+  }
+  
+  .CenterBar p {
+    text-align: left;
+    font-weight: bold;
+    display: block;
+  }
+  
